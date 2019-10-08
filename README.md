@@ -14,7 +14,7 @@ Lietuvių kalbos rašybos tikrintuvai, skirti Windows, Linux, macOS aplikoje vei
 
 # 4. Lietuvių kalbos Hunspell žodynai
 
-Norintiems vystyti lietuvių kalbos rašybos tikrinimo paslaugas/produktus. Žodyno apimtis - apie 175 000 pagrindinių žodžių formų (lemų)
+Norintiems vystyti lietuvių kalbos rašybos tikrinimo paslaugas/produktus. Žodyno apimtis - apie 175 000 pagrindinių žodžių formų (lemų). Apie Hunspell suderinamumą su įvairiomis sistemomis (pvz.: Chrome, Firefox, etc.): https://en.wikipedia.org/wiki/Hunspell 
 
 # Projektas, vykdytojai, finansavimo šaltinis:
 
