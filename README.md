@@ -25,7 +25,7 @@ Virginijus Dadurkevičius, Danielius Algirdas Ralys, Arūnas Samuilis,
 Jonas Vaičiulis, Franciška Ralienė, Linas Valiukas
 
 # Licencijos:
-Visiems trims tikrintuvams: Attribution 2.0 Generic (CC BY 2.0)
+Visiems trims tikrintuvams: Attribution 2.0 Generic (CC BY 2.0); 
 Hunspell žodynams: MPL1.1/GPLv3+/LGPLv3+ Tri-licence
 
 Prašymas: projekto vykdytojai tikrintuvus ir toliau vystys. Pastebėjus nekorektiškoveikimo atvejus arba turint pastabė dėl veikimo, maloniai prašome informuoti šios paskyros administratorių semantikalt@gmail.com. Iš anksto dėkojame už bendradarbiavimą.
