@@ -8,7 +8,7 @@ macOS terpei skirtas lietuvių kalbos rašybos klaidų tikrinimo sisteminis plė
 
 Linux terpei skirtas lietuvių kalbos rašybos klaidų tikrinimo sisteminis plėtinys. Diegimo ir išdiegimo instrukcijos faile "readme.txt"
 
-# 3. Lietuvių kalbos rašybos tikrintuvasm skirtas LIBREOFFICE / OPENOFFICE. v.1.0.42 (2019-07-17)
+# 3. Lietuvių kalbos rašybos tikrintuvas skirtas LIBREOFFICE / OPENOFFICE. v.1.0.42 (2019-07-17)
 
 Lietuvių kalbos rašybos tikrintuvai, skirti Windows, Linux, macOS aplikoje veikiantiems biuro programinės įrangos paketams LIBREOFFICE / OPENOFFICE. Diegimo ir išdiegimo instrukcijos faile "readme.txt".
 
