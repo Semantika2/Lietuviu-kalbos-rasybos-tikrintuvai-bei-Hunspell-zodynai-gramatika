@@ -1,14 +1,14 @@
 # Lietuvių kalbos rašybos tikrintuvai
 
-# 1. Lietuvių kalbos rašybos tikrintuvas, skirtas macOS v.1.0.42 (2019-07-17)
+# 1. Lietuvių kalbos rašybos tikrintuvas, skirtas macOS. v.1.0.42 (2019-07-17)
 
 macOS terpei skirtas lietuvių kalbos rašybos klaidų tikrinimo sisteminis plėtinys. Neveikia tik su MS programomis. Diegimo ir išdiegimo instrukcijos faile "readme.txt" 
 
-# 2. Lietuvių kalbos rašybos tikrintuvas, skirtas OS Linux v.1.0.42 (2019-07-17)
+# 2. Lietuvių kalbos rašybos tikrintuvas, skirtas OS Linux, v.1.0.42 (2019-07-17)
 
 Linux terpei skirtas lietuvių kalbos rašybos klaidų tikrinimo sisteminis plėtinys. Diegimo ir išdiegimo instrukcijos faile "readme.txt"
 
-# 3. Lietuvių kalbos rašybos tikrintuvasm skirtas LIBREOFFICE / OPENOFFICE v.1.0.42 (2019-07-17)
+# 3. Lietuvių kalbos rašybos tikrintuvasm skirtas LIBREOFFICE / OPENOFFICE. v.1.0.42 (2019-07-17)
 
 Lietuvių kalbos rašybos tikrintuvai, skirti Windows, Linux, macOS aplikoje veikiantiems biuro programinės įrangos paketams LIBREOFFICE / OPENOFFICE. Diegimo ir išdiegimo instrukcijos faile "readme.txt".
 
