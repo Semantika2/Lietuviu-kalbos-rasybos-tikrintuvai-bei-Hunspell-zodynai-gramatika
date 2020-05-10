@@ -12,7 +12,7 @@ Linux terpei skirtas lietuvių kalbos rašybos klaidų tikrinimo sisteminis plė
 
 Lietuvių kalbos rašybos tikrintuvai, skirti Windows, Linux, macOS aplikoje veikiantiems biuro programinės įrangos paketams LIBREOFFICE / OPENOFFICE. Diegimo ir išdiegimo instrukcijos faile "readme.txt".
 
-# 4. Lietuvių kalbos Hunspell žodynai
+# 4. Lietuvių kalbos Hunspell žodynai (naujausia versija 45)
 
 Norintiems vystyti lietuvių kalbos rašybos tikrinimo paslaugas/produktus. Žodyno apimtis - apie 175 000 pagrindinių žodžių formų (lemų). Apie Hunspell suderinamumą su įvairiomis sistemomis (pvz.: Chrome, Firefox, etc.): https://en.wikipedia.org/wiki/Hunspell 
 
